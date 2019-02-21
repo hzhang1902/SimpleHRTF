@@ -7,7 +7,7 @@ The project is based on FFT-based binaural panner by Mr. JAKOB HOUGAARD ANDERSEN
 
 
 ## How to Try out the Program
-The main max file is Simple HRTF Individualization.maxpat. Open it.
+The main file is Simple HRTF Individualization.maxpat. Open it with Max 7.
 
 
 ### Preparation
@@ -75,6 +75,7 @@ Elevation is from 0 (45 degrees downward) to 127 (46 degrees downward), so front
 
 
 ## Liscence
+The MIT License
 
 Copyright 2017 Haofan Zhang
 
