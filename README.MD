@@ -1,4 +1,4 @@
-#SimpleHRTF
+# SimpleHRTF
 
 A new, easy and fast method to get your Head Related Transform Function. Includes a concept prototype Max 7 program for testing.
 
